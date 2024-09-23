@@ -21,7 +21,7 @@
 // Disable the automatic pin remapping of the API calls in this file
 #define ARDUINO_CORE_BUILD
 
-#include "ETH.h"
+#include "ETH-Mac.h"
 #include "esp_system.h"
 #include "esp_event.h"
 #include "esp_eth.h"
